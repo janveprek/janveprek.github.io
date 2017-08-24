@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-Chcete so zahrát hru [2048]?(https://janveprek.github.io/2048/).
+Chcete so zahrát hru [2048](https://janveprek.github.io/2048/)?
 
 ### Jekyll Themes
 
