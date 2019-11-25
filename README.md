@@ -1,10 +1,3 @@
-```
-Chcete si zahrát hru [2048](https://janveprek.github.io/2048/)?
-
-
-
-
-To se asi hodi:
 ## Welcome to GitHub Pages
 
 Syntax highlighted code block
